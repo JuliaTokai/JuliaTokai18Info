@@ -55,6 +55,7 @@ Note:
 ## 本日の発表
 
 + [うどん](https://twitter.com/ku_taksn): [確率なんも分からんだけどヨットに勝ちたいのでGreedyYacht.jlを作った話]()
++ [abap34](https://twitter.com/abap34): [Julia**と**構文解析と...]()
 
 ---
 
