@@ -56,7 +56,7 @@ Note:
 
 + [うどん](https://twitter.com/ku_taksn): [確率なんも分からんだけどヨットに勝ちたいのでGreedyYacht.jlを作った話]()
 + [abap34](https://twitter.com/abap34): [Julia**と**構文解析と...]()
-+ [antimon2](https://twitter.com/antimon2): [Julia でどうしても `super().hoge` みたいなことしたい人へ]()
++ [antimon2](https://twitter.com/antimon2): [Julia でどうしても `super().hoge` みたいなことしたい人へ](https://speakerdeck.com/antimon2/julia-dedousitemo-super-dot-hoge-mitainakotositairen-he-for-juliatokai-number-18)
 
 ---
 
